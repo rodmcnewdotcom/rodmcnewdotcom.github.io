@@ -16,7 +16,7 @@ class NextSteps {
     }
 
 
-    viewHisCode() {
+    viewHisProjects() {
         on(gitHub);
     }
 }
@@ -24,4 +24,4 @@ class NextSteps {
 
 let bob = new NextSteps();
 bob.findOutMore();
-bob.viewHisCode();
+bob.viewHisProjects();
