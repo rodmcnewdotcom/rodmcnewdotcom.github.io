@@ -13,7 +13,7 @@ a, a:visited, a:hover {
 }
 
 a:hover {
-    background-color: grey;
+    background-color: rgb(75, 75, 75);
 }
 
 .container {
@@ -38,6 +38,10 @@ a:hover {
 
 .property {
     color: rgb(152, 118, 170)
+}
+
+.comment {
+    color: rgb(128, 128, 128)
 }
 
 .doc-block {

@@ -12,12 +12,12 @@ import 'Have a great product'
  */
 class NextSteps {
     findOutMore() {
-        on(linkedIn);
+        on(linkedIn); //Click here to visit Rod's LinkedIn
     }
 
 
     viewHisProjects() {
-        on(gitHub);
+        on(gitHub); //Click here to visit Rod's GitHub
     }
 }
 
