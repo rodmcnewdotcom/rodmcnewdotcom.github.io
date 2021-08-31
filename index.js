@@ -1,1 +1,0 @@
-window.location.replace("https://www.linkedin.com/in/rod-mcnew-b4105063/");
